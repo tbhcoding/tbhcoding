@@ -87,9 +87,3 @@ Lost-and-found management on a normalized MySQL schema (items, finders, categori
 Climate-awareness microsite on endangered Arctic and glacial species, with parallax glacier scenes, scroll-triggered transitions, and particle snowfall. [Live site](https://tbhcoding.github.io/MeltingSanctuaries/)
 
 <sub>Team project.</sub>
-
-## Experience & Leadership
-
-- **Founder, HydroFi Agritech Solutions** — affordable, AI-powered hydroponics automation for Filipino farmers: a sensor network, automated nutrient dosing, and farm analytics.
-- **Chief Partnership Officer, Startup Founders Association – CSPC Chapter** — sources corporate sponsors and partners for student startup programs such as StartUp Voyage, an ideathon and startup-awareness campaign.
-- **Hackathons** — 1st Mayoral Naga City Hackathon (iFLOOD, a BLE-mesh flood-rescue module) · Unleash Hacks 2025 (automated power-outage reporting) · Meralco IDOL Hackathon 2026 (typhoon brownout and restoration forecasting).
