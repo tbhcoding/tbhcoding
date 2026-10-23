@@ -1,7 +1,7 @@
 <h1 align="center">Blessie Faith S. Bongalos</h1>
 
 <p align="center">
-  <strong>Software Developer &middot; Machine Learning, IoT &amp; Full-Stack Systems</strong><br>
+  Software developer &middot; ML &amp; full-stack<br>
   BS Computer Science, Camarines Sur Polytechnic Colleges &middot; Philippines
 </p>
 
@@ -11,8 +11,6 @@
   <a href="mailto:you@example.com"><img src="https://skillicons.dev/icons?i=gmail" height="36" alt="Email"></a>
 </p>
 -->
-
-I build systems that turn sensor and image data into decisions: a deep-learning pipeline that maps pH across multispectral images of meat, a cloud backend that keeps hydroponic reservoirs in range on its own, and a real-time scheduling platform for my campus. My work spans models and data, APIs and databases, and the interfaces people actually use. I care about evidence: seeded, reproducible experiments, honest baselines, and secure-by-default backends.
 
 ## Tech Stack
 
@@ -48,15 +46,15 @@ Compares stacked RNN and LSTM networks (64-32-16 units) for next-day household e
 
 Multiclass prediction of insomnia, sleep apnea, or no disorder from health and lifestyle data, comparing XGBoost, Gradient Boosting, KNN, and Logistic Regression with SMOTE class balancing and cross-validation. The ensembles and KNN reached roughly 90–92% accuracy, and an interactive ipywidgets tool serves predictions from any of the trained models.
 
-### IoT, Backend & DevOps
+### Backend & DevOps
 
-#### [HydroFi — Hydroponic Monitoring & Auto-Dosing](https://github.com/tbhcoding/hydrofi)
+#### [HydroFi — Hydroponics Monitoring Backend](https://github.com/tbhcoding/hydrofi)
 
-`FastAPI` `Supabase` `PostgreSQL` `JavaScript` `ESP32` `Railway`
+`FastAPI` `Supabase` `PostgreSQL` `JavaScript` `Railway`
 
-Closed-loop control for hydroponic reservoirs. An ESP32 posts pH, TDS, and water-temperature readings to a FastAPI service backed by Supabase Postgres with row-level security; out-of-range readings queue pump corrections for the device, and a web dashboard shows live and historical data with AUTO/MANUAL control and on-demand dosing. The backend runs on Railway.
+Backend for a hydroponics automation startup. A FastAPI service ingests pH, TDS, and water-temperature readings, stores them in Supabase Postgres with row-level security, queues pump corrections when a reading drifts out of range, and feeds a dashboard with live and historical data. Deployed on Railway.
 
-<sub>Startup team &middot; My role: database schema, device API contract, and backend (device auth, ingestion, read APIs, command queue, auto-dosing); first dashboard integration; Railway deployment.</sub>
+<sub>Startup team &middot; My role: API design, database schema, and backend (auth, ingestion, read APIs, command queue, auto-dosing); dashboard integration; deployment.</sub>
 
 #### [Flask CI/CD Pipeline](https://github.com/tbhcoding/flask-cicd-demo)
 
