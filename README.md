@@ -25,8 +25,9 @@
     <td>
       <img src="https://img.shields.io/badge/Python-21262d?style=flat-square&logo=python&logoColor=3776AB" alt="Python">
       <img src="https://img.shields.io/badge/JavaScript-21262d?style=flat-square&logo=javascript&logoColor=F7DF1E" alt="JavaScript">
-      <img src="https://img.shields.io/badge/TypeScript-21262d?style=flat-square&logo=typescript&logoColor=3178C6" alt="TypeScript">
       <img src="https://img.shields.io/badge/SQL-21262d?style=flat-square" alt="SQL">
+      <img src="https://img.shields.io/badge/HTML5-21262d?style=flat-square&logo=html5&logoColor=E34F26" alt="HTML5">
+      <img src="https://img.shields.io/badge/CSS-21262d?style=flat-square&logo=css&logoColor=1572B6" alt="CSS">
     </td>
   </tr>
   <tr>
@@ -35,11 +36,11 @@
       <img src="https://img.shields.io/badge/PyTorch-21262d?style=flat-square&logo=pytorch&logoColor=EE4C2C" alt="PyTorch">
       <img src="https://img.shields.io/badge/TensorFlow-21262d?style=flat-square&logo=tensorflow&logoColor=FF6F00" alt="TensorFlow">
       <img src="https://img.shields.io/badge/scikit--learn-21262d?style=flat-square&logo=scikitlearn&logoColor=F7931E" alt="scikit-learn">
+      <img src="https://img.shields.io/badge/XGBoost-21262d?style=flat-square" alt="XGBoost">
       <img src="https://img.shields.io/badge/OpenCV-21262d?style=flat-square&logo=opencv&logoColor=5C3EE8" alt="OpenCV">
       <img src="https://img.shields.io/badge/NumPy-21262d?style=flat-square&logo=numpy&logoColor=4DABCF" alt="NumPy">
       <img src="https://img.shields.io/badge/pandas-21262d?style=flat-square&logo=pandas&logoColor=E70488" alt="pandas">
       <img src="https://img.shields.io/badge/SciPy-21262d?style=flat-square&logo=scipy&logoColor=8CAAE6" alt="SciPy">
-      <img src="https://img.shields.io/badge/XGBoost-21262d?style=flat-square" alt="XGBoost">
       <img src="https://img.shields.io/badge/Jupyter-21262d?style=flat-square&logo=jupyter&logoColor=F37626" alt="Jupyter">
     </td>
   </tr>
@@ -51,19 +52,17 @@
       <img src="https://img.shields.io/badge/MySQL-21262d?style=flat-square&logo=mysql&logoColor=4479A1" alt="MySQL">
       <img src="https://img.shields.io/badge/PostgreSQL-21262d?style=flat-square&logo=postgresql&logoColor=4169E1" alt="PostgreSQL">
       <img src="https://img.shields.io/badge/Supabase-21262d?style=flat-square&logo=supabase&logoColor=3FCF8E" alt="Supabase">
-      <img src="https://img.shields.io/badge/Streamlit-21262d?style=flat-square&logo=streamlit&logoColor=FF4B4B" alt="Streamlit">
       <img src="https://img.shields.io/badge/WebSockets-21262d?style=flat-square" alt="WebSockets">
     </td>
   </tr>
   <tr>
-    <td><b>Frontend</b></td>
+    <td><b>Apps & Visualization</b></td>
     <td>
-      <img src="https://img.shields.io/badge/Angular-21262d?style=flat-square&logo=angular&logoColor=DD0031" alt="Angular">
-      <img src="https://img.shields.io/badge/HTML5-21262d?style=flat-square&logo=html5&logoColor=E34F26" alt="HTML5">
-      <img src="https://img.shields.io/badge/CSS-21262d?style=flat-square&logo=css&logoColor=1572B6" alt="CSS">
       <img src="https://img.shields.io/badge/Flet-21262d?style=flat-square" alt="Flet">
+      <img src="https://img.shields.io/badge/Streamlit-21262d?style=flat-square&logo=streamlit&logoColor=FF4B4B" alt="Streamlit">
       <img src="https://img.shields.io/badge/Gradio-21262d?style=flat-square&logo=gradio&logoColor=F97316" alt="Gradio">
       <img src="https://img.shields.io/badge/Plotly-21262d?style=flat-square&logo=plotly&logoColor=ffffff" alt="Plotly">
+      <img src="https://img.shields.io/badge/Matplotlib-21262d?style=flat-square" alt="Matplotlib">
     </td>
   </tr>
   <tr>
@@ -76,7 +75,6 @@
       <img src="https://img.shields.io/badge/Azure-21262d?style=flat-square&logo=data%3Aimage%2Fsvg%2Bxml%3Bbase64%2CPHN2ZyByb2xlPSJpbWciIHZpZXdCb3g9IjAgMCAyNCAyNCIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj48cGF0aCBmaWxsPSIjMDA4OUQ2IiBkPSJNMjIuMzc5IDIzLjM0M2ExLjYyIDEuNjIgMCAwIDAgMS41MzYtMi4xNHYuMDAyTDE3LjM1IDEuNzZBMS42MiAxLjYyIDAgMCAwIDE1LjgxNi42NTdIOC4xODRBMS42MiAxLjYyIDAgMCAwIDYuNjUgMS43NkwuMDg2IDIxLjIwNGExLjYyIDEuNjIgMCAwIDAgMS41MzYgMi4xMzloNC43NDFhMS42MiAxLjYyIDAgMCAwIDEuNTM1LTEuMTAzbC45NzctMi44OTIgNC45NDcgMy42NzVjLjI4LjIwOC42MTguMzIuOTY2LjMybS0zLjA4NC0xMi41MzEgMy42MjQgMTAuNzM5YS41NC41NCAwIDAgMS0uNTEuNzEzdi0uMDAxaC0uMDNhLjU0LjU0IDAgMCAxLS4zMjItLjEwNmwtOS4yODctNi45aDQuODUzbTYuMzEzIDcuMDA2Yy4xMTYtLjMyNi4xMy0uNjk0LjAwNy0xLjA1OEw5Ljc5IDEuNzZhMS43MjIgMS43MjIgMCAwIDAtLjAwNy0uMDJoNi4wMzRhLjU0LjU0IDAgMCAxIC41MTIuMzY2bDYuNTYyIDE5LjQ0NWEuNTQuNTQgMCAwIDEtLjMzOC42ODQiLz48L3N2Zz4%3D" alt="Azure">
       <img src="https://img.shields.io/badge/Railway-21262d?style=flat-square&logo=railway&logoColor=ffffff" alt="Railway">
       <img src="https://img.shields.io/badge/pytest-21262d?style=flat-square&logo=pytest&logoColor=0A9EDC" alt="pytest">
-      <img src="https://img.shields.io/badge/SonarQube-21262d?style=flat-square&logo=data%3Aimage%2Fsvg%2Bxml%3Bbase64%2CPHN2ZyByb2xlPSJpbWciIHZpZXdCb3g9IjAgMCAyNCAyNCIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj48cGF0aCBmaWxsPSIjNEU5QkNEIiBkPSJNMTIgMGEuNzc0Ljc3NCAwIDAgMC0uNzc1Ljc3NWMwIC40My4zNDYuNzc2Ljc3NS43NzYgNS43NjIgMCAxMC40NSA0LjY4NyAxMC40NSAxMC40NDkgMCAuNDMuMzQ1Ljc3NS43NzUuNzc1QS43NzQuNzc0IDAgMCAwIDI0IDEyYzAtNi42MTYtNS4zODQtMTItMTItMTJ6bTAgMy45MzJhLjc3NC43NzQgMCAwIDAtLjc3NS43NzVjMCAuNDMuMzQ2Ljc3NS43NzUuNzc1QTYuNTI0IDYuNTI0IDAgMCAxIDE4LjUxOCAxMmMwIC40My4zNDYuNzc1Ljc3NS43NzUuNDMgMCAuNzc1LS4zNDYuNzc1LS43NzUgMC00LjQ0OC0zLjYyLTguMDY4LTguMDY4LTguMDY4em0wIDMuOTI1YS43NzQuNzc0IDAgMCAwLS43NzUuNzc2YzAgLjQzLjM0Ni43NzUuNzc1Ljc3NUEyLjU5NyAyLjU5NyAwIDAgMSAxNC41OTIgMTJjMCAuNDMuMzQ2Ljc3NS43NzUuNzc1LjQzIDAgLjc3Ni0uMzQ2Ljc3Ni0uNzc1QTQuMTQ1IDQuMTQ1IDAgMCAwIDEyIDcuODU3ek0uNzc1IDExLjIyNUEuNzc0Ljc3NCAwIDAgMCAwIDEyYzAgNi42MTYgNS4zODQgMTIgMTIgMTIgLjQzIDAgLjc3NS0uMzQ2Ljc3NS0uNzc1YS43NzQuNzc0IDAgMCAwLS43NzUtLjc3NkM2LjIzOCAyMi40NSAxLjU1IDE3Ljc2MiAxLjU1IDEyYS43NzQuNzc0IDAgMCAwLS43NzUtLjc3NXptMy45MzIgMGEuNzc0Ljc3NCAwIDAgMC0uNzc1Ljc3NWMwIDQuNDQ4IDMuNjIgOC4wNjggOC4wNjggOC4wNjguNDMgMCAuNzc1LS4zNDYuNzc1LS43NzVhLjc3NC43NzQgMCAwIDAtLjc3NS0uNzc1QTYuNTI0IDYuNTI0IDAgMCAxIDUuNDgyIDEyYS43NzQuNzc0IDAgMCAwLS43NzUtLjc3NXptMy45MjYgMGEuNzc0Ljc3NCAwIDAgMC0uNzc2Ljc3NUE0LjE0NSA0LjE0NSAwIDAgMCAxMiAxNi4xNDNjLjQzIDAgLjc3NS0uMzQ3Ljc3NS0uNzc2YS43NzQuNzc0IDAgMCAwLS43NzUtLjc3NUEyLjU5NyAyLjU5NyAwIDAgMSA5LjQwOCAxMmEuNzc0Ljc3NCAwIDAgMC0uNzc1LS43NzV6Ii8%2BPC9zdmc%2B" alt="SonarQube">
     </td>
   </tr>
 </table>
@@ -100,6 +98,6 @@
 
 | Project | Description |
 |:--|:--|
-| **[EduROOM](https://github.com/tbhcoding/EduROOM)**<br><sub>Reservation system · team of four</sub> | Classroom reservation and scheduling system for CSPC's Academic Building IV: conflict-checked bookings, an approval workflow, admin analytics, and role-based access. Security is built in (bcrypt, login lockout, session timeouts, action tokens, parameterized SQL, audit logs), and WebSockets push live updates to every client.<br><sub>My role: product lead; lead full-stack and backend developer.</sub><br>`Python` `Flet` `MySQL` `WebSockets` `Plotly` `Docker` |
+| **[EduROOM](https://github.com/tbhcoding/EduROOM)**<br><sub>Reservation system · team of four</sub> | Classroom reservation and scheduling system for CSPC's Academic Building IV: conflict-checked bookings, an approval workflow, admin analytics, and role-based access. Security is built in (bcrypt, login lockout, session timeouts, action tokens, parameterized SQL, audit logs), and WebSockets push live updates to every client.<br><sub>My role: product lead; lead full-stack and backend developer.</sub><br>`Python` `Flet` `MySQL` `WebSockets` `bcrypt` `Docker` |
 | **[TraceSure](https://github.com/tbhcoding/TraceSure-LostAndFound-System)**<br><sub>Lost-and-found system</sub> | Lost-and-found management on a normalized MySQL schema: item intake, claim tracking, search, CSV export and orphan-record cleanup. [Demo video](https://youtu.be/ItKQRZXjIkM)<br>`Python` `Streamlit` `MySQL` `pandas` |
 | **[Melting Sanctuaries](https://github.com/tbhcoding/MeltingSanctuaries)**<br><sub>Microsite · team project</sub> | Climate-awareness microsite on endangered Arctic species, with parallax glacier scenes, scroll-triggered transitions and particle snowfall. [Live site](https://tbhcoding.github.io/MeltingSanctuaries/)<br>`HTML` `CSS` `JavaScript` |
