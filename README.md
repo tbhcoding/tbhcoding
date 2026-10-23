@@ -5,6 +5,11 @@
   BS Computer Science, Camarines Sur Polytechnic Colleges &middot; Philippines
 </p>
 
+<p align="center">
+  I build ML models and the backends that put them to work.<br>
+  Lately: teaching a CNN to read pork pH from six bands of light, and building the API behind my hydroponics startup.
+</p>
+
 <!-- Contact row: fill in both links, then delete these two comment lines.
 <p align="center">
   <a href="https://www.linkedin.com/in/your-handle/"><img src="https://skillicons.dev/icons?i=linkedin" height="36" alt="LinkedIn"></a>&nbsp;
@@ -14,13 +19,13 @@
 
 ## Tech Stack
 
-| Area | Tools |
-|:--|:--|
-| **Languages** | <img src="https://skillicons.dev/icons?i=python,js,ts" height="40" alt="Python, JavaScript, TypeScript"><br><sub>SQL</sub> |
-| **Machine Learning & Data** | <img src="https://skillicons.dev/icons?i=pytorch,tensorflow,sklearn,opencv" height="40" alt="PyTorch, TensorFlow, scikit-learn, OpenCV"><br><sub>NumPy · pandas · SciPy · XGBoost · imbalanced-learn · Jupyter</sub> |
-| **Backend & Databases** | <img src="https://skillicons.dev/icons?i=fastapi,flask,mysql,postgres,supabase" height="40" alt="FastAPI, Flask, MySQL, PostgreSQL, Supabase"><br><sub>REST APIs · WebSockets · Streamlit</sub> |
-| **Frontend & UI** | <img src="https://skillicons.dev/icons?i=angular,html,css" height="40" alt="Angular, HTML, CSS"><br><sub>Flet · Gradio · Plotly</sub> |
-| **DevOps & Tools** | <img src="https://skillicons.dev/icons?i=git,github,githubactions,docker,azure" height="40" alt="Git, GitHub, GitHub Actions, Docker, Azure"><br><sub>Railway · pytest · SonarQube</sub> |
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,js,ts,pytorch,tensorflow,sklearn,opencv,fastapi,flask,mysql,postgres,supabase,angular,html,css,git,github,githubactions,docker,azure&perline=10" alt="Python, JavaScript, TypeScript, PyTorch, TensorFlow, scikit-learn, OpenCV, FastAPI, Flask, MySQL, PostgreSQL, Supabase, Angular, HTML, CSS, Git, GitHub, GitHub Actions, Docker, Azure">
+</p>
+
+<p align="center">
+  <sub>Also: SQL · NumPy · pandas · XGBoost · Jupyter · Streamlit · Flet · Gradio · WebSockets · Railway · SonarQube</sub>
+</p>
 
 ## Projects
 
